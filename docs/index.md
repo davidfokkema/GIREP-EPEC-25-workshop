@@ -1,17 +1,38 @@
-# Welcome to MkDocs
+# Welcome to the BFY4 workshop on Tailor
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## Pendulum with ultrasonic distance detector
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Data files:
 
-## Project layout
+* [:fontawesome-solid-file-csv: pendulum-USD.csv](data/pendulum-USD.csv)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## X-ray fluorescence
+
+Data files:
+
+* [:fontawesome-solid-file-csv: X-ray.csv](data/X-ray.csv)
+* [:fontawesome-solid-file-csv: X-ray-invar.csv](data/X-ray-invar.csv)
+
+
+## Photovoltaic cell
+
+Data files:
+
+* [:fontawesome-solid-file-csv: pvcell.csv](data/pvcell.csv)
+
+## Cart rolling down an incline
+
+Data files:
+
+* [:fontawesome-solid-file-csv: cart-dataset1.csv](data/cart-dataset1.csv)
+* [:fontawesome-solid-file-csv: cart-dataset2.csv](data/cart-dataset2.csv)
+
+
+## Extras
+
+Data files:
+
+* [:fontawesome-solid-file-csv: radon220.csv](data/radon220.csv)
