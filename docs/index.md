@@ -4,6 +4,12 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Pendulum with ultrasonic distance detector
 
+We have
+$$
+T = 2\pi\sqrt{\frac{l}{g}}
+$$
+
+
 Data files:
 
 * [:fontawesome-solid-file-csv: pendulum-USD.csv](data/pendulum-USD.csv)
