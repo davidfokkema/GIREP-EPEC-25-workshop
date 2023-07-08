@@ -4,6 +4,9 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Pendulum with ultrasonic distance detector
 
+!!! abstract "Learning goal"
+    Tailor can import stuff.
+
 We have
 $$
 T = 2\pi\sqrt{\frac{l}{g}}
