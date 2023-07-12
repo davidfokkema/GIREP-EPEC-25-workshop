@@ -15,9 +15,9 @@ For periodic functions it can be especially hard to find a working set of initia
 !!! exercise
     Import the :fontawesome-solid-file-csv:`pendulum-USD.csv` data file into a clean project. Change the column names if you'd like. Create a plot of distance versus time and use a model similar to:
     $$
-    s = s_0 + A \sin{2\pi f t + \phi},
+    s = s_0 + A \sin(2\pi f t + \phi),
     $$
-    with distance $s$ and time $t$. Try to fit the model using the default initial values; that probably will not result in a good fit. Now play around with the initial values; you may need to enable `Show initial fit` again. How does changing a parameter affect the model curve? Try to get a good fit.
+    where distance $s$ and time $t$ should be the names of the data columns. Try to fit the model using the default initial values; that probably will not result in a good fit. Now play around with the initial values; you may need to enable `Show initial fit` again. How does changing a parameter affect the model curve? Try to get a good fit.
 
     Data files:
 
