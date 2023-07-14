@@ -73,7 +73,7 @@ Mind that all calculations are performed from left to right, so you can only use
 
     [^voltage]: The use of $U$ instead of $V$ for voltage seems to be a US/European difference of opinion. Sorry about that.
 
-## Cart rolling down an incline
+## Cart moving down a frictionless track
 
 !!! abstract "Learning goal"
     In this exercise you will learn some tricks to perform a repeated analysis on a second measurement with just a few clicks. Also, you will fit a model to only a part of your data.
