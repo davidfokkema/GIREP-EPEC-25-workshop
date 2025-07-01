@@ -3,13 +3,12 @@ hide:
   - navigation
 ---
 
-# BFY4 workshop on Tailor
+# GIREP-EPEC 2025 workshop on Tailor
 
 The repository for Tailor can be found at [GitHub](https://github.com/davidfokkema/tailor) and the latest release can be downloaded [here](https://github.com/davidfokkema/tailor/releases/latest). Links to the individual binary installers:
 
-* [Windows](https://github.com/davidfokkema/tailor/releases/download/v1.8.0/Tailor-1.8.0.msi)
-* [Intel Macs (older Macs)](https://github.com/davidfokkema/tailor/releases/download/v1.8.0/Tailor-1.8.0_intel.dmg)
-* [Apple Silicon (newer Macs)](https://github.com/davidfokkema/tailor/releases/download/v1.8.0/Tailor-1.8.0_apple_silicon.dmg)
+* [Windows](https://github.com/davidfokkema/tailor/releases/download/v2.0.6/Tailor-2.0.6.msi)
+* [macOS](https://github.com/davidfokkema/tailor/releases/download/v2.0.6/Tailor-2.0.6.dmg)
 
 This document contains several exercises to explore the features of Tailor and experience its ease-of-use. Special care was given to try and showcase those features which make Tailor ideally suited for data analysis in an educational setting. All analysis tools should incur only low cognitive load and should ideally be directly usable without reading a long manual.
 
